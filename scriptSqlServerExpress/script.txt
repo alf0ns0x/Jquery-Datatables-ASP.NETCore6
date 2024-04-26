@@ -1,0 +1,83 @@
+CREATE TABLE EMPLEADO(
+   IdEmpleado   INTEGER  NOT NULL PRIMARY KEY 
+  ,Nombre       VARCHAR(50) NOT NULL
+  ,Cargo   VARCHAR(50) NOT NULL
+  ,Oficina     VARCHAR(50) NOT NULL
+  ,Salario     VARCHAR(50) NOT NULL
+  ,Telefono       INTEGER  NOT NULL
+  ,FechaIngreso DATE  NOT NULL
+);
+
+
+
+set dateformat ymd
+
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (1,'Tiger Nixon','System Architect','$320,800','20110425','Edinburgh',5421);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (2,'Garrett Winters','Accountant','$170,750','20110725','Tokyo',8422);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (3,'Ashton Cox','Junior Technical Author','$86,000','20090112','San Francisco',1562);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (4,'Cedric Kelly','Senior Javascript Developer','$433,060','20120329','Edinburgh',6224);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (5,'Airi Satou','Accountant','$162,700','20081128','Tokyo',5407);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (6,'Brielle Williamson','Integration Specialist','$372,000','20121202','New York',4804);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (7,'Herrod Chandler','Sales Assistant','$137,500','20120806','San Francisco',9608);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (8,'Rhona DavIdEmpleadoson','Integration Specialist','$327,900','20101014','Tokyo',6200);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (9,'Colleen Hurst','Javascript Developer','$205,500','20090915','San Francisco',2360);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (10,'Sonya Frost','Software Engineer','$103,600','20081213','Edinburgh',1667);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (11,'Jena Gaines','Oficina Manager','$90,560','20081219','London',3814);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (12,'Quinn Flynn','Support Lead','$342,000','20130303','Edinburgh',9497);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (13,'Charde Marshall','Regional Director','$470,600','20081016','San Francisco',6741);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (14,'Haley Kennedy','Senior Marketing Designer','$313,500','20121218','London',3597);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (15,'Tatyana Fitzpatrick','Regional Director','$385,750','20100317','London',1965);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (16,'Michael Silva','Marketing Designer','$198,500','20121127','London',1581);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (17,'Paul Byrd','Chief Financial Oficinar (CFO)','$725,000','20100609','New York',3059);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (18,'Gloria Little','Systems Administrator','$237,500','20090410','New York',1721);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (19,'Bradley Greer','Software Engineer','$132,000','20121013','London',2558);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (20,'Dai Rios','Personnel Lead','$217,500','20120926','Edinburgh',2290);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (21,'Jenette Caldwell','Development Lead','$345,000','20110903','New York',1937);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (22,'Yuri Berry','Chief Marketing Oficinar (CMO)','$675,000','20090625','New York',6154);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (23,'Caesar Vance','Pre-Sales Support','$106,450','20111212','New York',8330);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (24,'Doris Wilder','Sales Assistant','$85,600','20100920','Sydney',3023);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (25,'Angelica Ramos','Chief Executive Oficinar (CEO)','$1,200,000','20091009','London',5797);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (26,'Gavin Joyce','Developer','$92,575','20101222','Edinburgh',8822);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (27,'Jennifer Chang','Regional Director','$357,650','20101114','Singapore',9239);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (28,'Brenden Wagner','Software Engineer','$206,850','20110607','San Francisco',1314);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (29,'Fiona Green','Chief Operating Oficinar (COO)','$850,000','20100311','San Francisco',2947);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (30,'Shou Itou','Regional Marketing','$163,000','20110814','Tokyo',8899);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (31,'Michelle House','Integration Specialist','$95,400','20110602','Sydney',2769);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (32,'Suki Burks','Developer','$114,500','20091022','London',6832);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (33,'Prescott Bartlett','Technical Author','$145,000','20110507','London',3606);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (34,'Gavin Cortez','Team Leader','$235,500','20081026','San Francisco',2860);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (35,'Martena Mccray','Post-Sales support','$324,050','20110309','Edinburgh',8240);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (36,'Unity Butler','Marketing Designer','$85,675','20091209','San Francisco',5384);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (37,'Howard Hatfield','Oficina Manager','$164,500','20081216','San Francisco',7031);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (38,'Hope Fuentes','Secretary','$109,850','20100212','San Francisco',6318);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (39,'Vivian Harrell','Financial Controller','$452,500','20090214','San Francisco',9422);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (40,'Timothy Mooney','Oficina Manager','$136,200','20081211','London',7580);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (41,'Jackson Bradshaw','Director','$645,750','20080926','New York',1042);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (42,'Olivia Liang','Support Engineer','$234,500','20110203','Singapore',2120);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (43,'Bruno Nash','Software Engineer','$163,500','20110503','London',6222);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (44,'Sakura Yamamoto','Support Engineer','$139,575','20090819','Tokyo',9383);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (45,'Thor Walton','Developer','$98,540','20130811','New York',8327);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (46,'Finn Camacho','Support Engineer','$87,500','20090707','San Francisco',2927);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (47,'Serge Baldwin','Data Coordinator','$138,575','20120409','Singapore',8352);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (48,'ZenaIdEmpleadoa Frank','Software Engineer','$125,250','20100104','New York',7439);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (49,'Zorita Serrano','Software Engineer','$115,000','20120601','San Francisco',4389);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (50,'Jennifer Acosta','Junior Javascript Developer','$75,650','20130201','Edinburgh',3431);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (51,'Cara Stevens','Sales Assistant','$145,600','20111206','New York',3990);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (52,'Hermione Butler','Regional Director','$356,250','20110321','London',1016);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (53,'Lael Greer','Systems Administrator','$103,500','20090227','London',6733);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (54,'Jonas Alexander','Developer','$86,500','20100714','San Francisco',8196);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (55,'Shad Decker','Regional Director','$183,000','20081113','Edinburgh',6373);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (56,'Michael Bruce','Javascript Developer','$183,000','20110627','Singapore',5384);
+INSERT INTO EMPLEADO(IdEmpleado,Nombre,Cargo,Salario,FechaIngreso,Oficina,Telefono) VALUES (57,'Donna SnIdEmpleadoer','Customer Support','$112,000','20110125','New York',4226);
+
+
+
+create PROC sp_lista_empleados
+as
+begin
+
+select IdEmpleado,Nombre,Cargo,Oficina,Salario,Telefono,convert(char(10),FechaIngreso,103)[FechaIngreso] from EMPLEADO
+
+end
+
+exec sp_lista_empleados

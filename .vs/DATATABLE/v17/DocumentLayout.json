@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\datatable\\datatable\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|solutionrelative:datatable\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\datatable\\datatable\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|solutionrelative:datatable\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\datatable\\datatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|solutionrelative:datatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\datatable\\datatable\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|solutionrelative:datatable\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\datatable\\datatable\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07EDE3-3BF9-4A3D-ABB2-DBB31F42904F}|DATATABLE\\DATATABLE.csproj|solutionrelative:datatable\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DATATABLE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DATATABLE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:41:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Program.cs",
+              "RelativeDocumentMoniker": "DATATABLE\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Program.cs",
+              "RelativeToolTip": "DATATABLE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:07:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DATATABLE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DATATABLE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAFkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:59:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DATATABLE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DATATABLE\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:08:34.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "DATATABLE\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\DATATABLE\\DATATABLE\\Models\\Empleado.cs",
+              "RelativeToolTip": "DATATABLE\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:05:47.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
